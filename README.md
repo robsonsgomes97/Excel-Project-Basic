@@ -58,4 +58,14 @@
 <br> 
 <hr>
 
+<h3>Fórmulas</h3>
+
+<p align="center">
+  
+<img width="1310" height="261" alt="image" src="https://github.com/user-attachments/assets/50a76646-fa78-414f-9c13-cd175df04117" />
+
+
+
+</p>
+<hr>
 
