@@ -44,3 +44,18 @@
 <hr>
 
 <h2>Básico 2</h2>
+
+
+<p>Utilizando as funções: Formatação condicional | SE | E | HOJE() </p>
+
+<p align="center">
+  
+<img width="1021" height="299" alt="image" src="https://github.com/user-attachments/assets/39c14c68-ed1c-4bd8-8283-25dc5e07def0" />
+
+
+
+</p>
+<br> 
+<hr>
+
+
