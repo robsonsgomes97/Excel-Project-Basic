@@ -18,6 +18,8 @@
 
 </p>
 
+<h2>Básico 1</h2>
+<p>Utilizando as funções: Multiplicação | Soma | SomaSe</p>
 
 <p align="center">
   
@@ -27,4 +29,14 @@
 
 
 </p>
+<br>
 
+<h3>Fórmulas</h3>
+
+<p align="center">
+
+<img width="1312" height="179" alt="image" src="https://github.com/user-attachments/assets/338c6b22-83ea-46c1-baa1-16e134b7395e" />
+<img width="953" height="187" alt="image" src="https://github.com/user-attachments/assets/353c8f3e-522d-41c2-bce6-7d613a215bdc" />
+
+  
+</p>
