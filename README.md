@@ -1,6 +1,6 @@
 # Excel-Project
-
-<h1> 
+<hr>
+<h1 align="center"> 
   Project in Excel
 </h1>
 <hr>
